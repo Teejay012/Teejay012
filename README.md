@@ -4,7 +4,7 @@ Welcome to my GitHub! I’m a **Fullstack Blockchain Developer** on a mission to
 
 ## 🚀 About Me
 
-- 🧩 Currently focused on **smart contract engineering**, **security auditing**, and **decentralized stablecoin systems**.
+- 🧩 Currently focused on **smart contract engineering**, **security auditing**, and **decentralized applications**.
 - ⚙️ Building with **Solidity**, **Foundry**, **Node.js**, **Next.js**, and **Tailwind CSS**.
 - 🔍 Passionate about **EVM security**, gas optimizations, and on-chain efficiency.
 - 💡 Hackathon builder — recently shipped [Zephyra](https://zephyra-kappa.vercel.app/) with Chainlink Hackathon.
