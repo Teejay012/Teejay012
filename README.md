@@ -14,7 +14,7 @@ Welcome to my GitHub! I’m a **Fullstack Blockchain Developer** on a mission to
 
 - 📜 Smart contract audit reports and competitive security research.
 - ⚡️ Open-source tools for the Web3 ecosystem.
-- 🧵 Sharing deep-dive Solidity tips and exploits on Twitter — [@EtherEngineer](https://twitter.com/EtherEngineer).
+- 🧵 Sharing deep-dive Solidity tips and exploits on Twitter — [@EtherEngineer](https://x.com/Tee_Jay4life?t=t97iSScgTBy1j-NNH8LajQ&s=09).
 
 ## 🛠️ Tech Stack
 
